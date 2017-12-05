@@ -20,6 +20,7 @@ Od czego zaczynamy:
 - potem wielka tablica/baza
 
 Dedlajny:
-- do 8 grudnia 2017 - stworzyć grafikę menu
-- stworzyć menu
-- zastanowić się czy zrobić to w formie tablicy/zapisu do pliku
+- do 8 grudnia 2017 
+  - stworzyć grafikę menu
+  - stworzyć menu
+  - zastanowić się czy zrobić to w formie tablicy/zapisu do pliku
