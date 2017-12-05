@@ -24,3 +24,4 @@ Dedlajny:
   - stworzyć grafikę menu
   - stworzyć menu
   - zastanowić się czy zrobić to w formie tablicy/zapisu do pliku
+  - zebrać kilka pierwszych przepisów
