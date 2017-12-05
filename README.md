@@ -1,6 +1,6 @@
 # Przepisnik
 Włączenie programu - menu z przeglądaniem przepiów, dodawaniem kolejnego, usuwanie.
-Przeglądanie - wyszukiwanie za pomocą wyszukiwania słowa, słowa kluczowe, wyszukiwanie po czasie, cenie. 
+Przeglądanie - wyszukiwanie za pomocą wyszukiwania słowa, słowa kluczowe, wyszukiwanie po czasie, cenie.
 Dodawanie kolejnego przepisu - dodawanie zdjęcia, przepisu, cenie.
 
 Co trzeba zrobić:
