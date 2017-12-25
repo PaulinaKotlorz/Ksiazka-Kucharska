@@ -45,7 +45,10 @@ sqlite_datareader=sqlite_cmd.ExecuteReader();
 while (sqlite_datareader.Read()) // Read() returns true if there is still a result line to read
 {
 // Print out the content of the text field:
-System.Console.WriteLine( sqlite_datareader["text"] );
+// System.Console.WriteLine( sqlite_datareader["text"] );
+ string MyReader = sqlite_datareader.GetString(0);
+ MessageBox.Swhow(MyReader);
+ 
 }
 
 // We are ready, now lets cleanup and close our connection:
