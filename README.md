@@ -4,7 +4,7 @@ Przeglądanie - wyszukiwanie za pomocą wyszukiwania słowa, słowa kluczowe, wy
 Dodawanie kolejnego przepisu - dodawanie zdjęcia, przepisu, cenie.
 
 Co trzeba zrobić:
-DONE menu
+- menu DONE
 - baza danych, ograniczona ilość przepisów, 
 - grafiki
 - jakaś melodia w tle?
@@ -15,5 +15,5 @@ Czego trzeba się nauczyć:
 
 Od czego zaczynamy:
 - zrobienie projektu na sucho - bez grafik
-DONE najpierw menu 
+- najpierw menu DONE
 - potem baza danych
