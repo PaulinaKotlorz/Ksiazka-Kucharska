@@ -4,24 +4,16 @@ Przeglądanie - wyszukiwanie za pomocą wyszukiwania słowa, słowa kluczowe, wy
 Dodawanie kolejnego przepisu - dodawanie zdjęcia, przepisu, cenie.
 
 Co trzeba zrobić:
-- menu
-- zapis do plików, ograniczona ilość przepisów, odczyt
-- tablice? 
+DONE menu
+- baza danych, ograniczona ilość przepisów, 
 - grafiki
-- jakaś melodia w tle
+- jakaś melodia w tle?
 
 Czego trzeba się nauczyć:
-- tablice
-- zapis
+- zapis do bazy danych
+- odczyt z bazy danych
 
 Od czego zaczynamy:
 - zrobienie projektu na sucho - bez grafik
-- najpierw menu
-- potem wielka tablica/baza
-
-Dedlajny:
-- do 8 grudnia 2017 
-  - stworzyć grafikę menu
-  - stworzyć menu
-  - zastanowić się czy zrobić to w formie tablicy/zapisu do pliku
-  - zebrać kilka pierwszych przepisów
+DONE najpierw menu 
+- potem baza danych
